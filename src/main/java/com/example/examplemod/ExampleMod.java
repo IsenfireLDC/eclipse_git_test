@@ -16,5 +16,6 @@ public class ExampleMod
     {
         // some example code
         System.out.println("DIRT BLOCK >> "+Blocks.DIRT.getUnlocalizedName());
+        System.out.println("This is a test of the collaborative systems, this is only a test.");
     }
 }
